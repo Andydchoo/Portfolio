@@ -1,6 +1,8 @@
 # Portfolio
 My personal portfolio containing:
 \
+!!THIS ASSIGNMENT IS INCOMPLETE AND IS STILL BEING WORKED ON
+\
 -My works
 \
 -Information about me
