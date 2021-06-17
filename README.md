@@ -6,4 +6,4 @@ My personal portfolio containing:
 -Information about me
 \
 -My contact information
-\
+
